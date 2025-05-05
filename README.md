@@ -1,6 +1,6 @@
 👋 Hi, I'm Berkay
 
-I am interested in full-stack development, open source and new technologies.
+I am interested in software development, open source and new technologies.
 
 Python, ASP.NET and I'm working on C#.
 
