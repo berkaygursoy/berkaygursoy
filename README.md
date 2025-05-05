@@ -23,3 +23,6 @@ I'm on a journey to learn software development. Currently, I'm working on Python
 I'm using GitHub to share my projects and document my progress.
 
 I'm here to learn something new every day and grow in the world of software!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-berkay-blue?logo=linkedin)](www.linkedin.com/in/berkay-gürsoy)
+
