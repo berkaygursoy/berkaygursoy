@@ -9,8 +9,6 @@ I enjoy learning new things, building projects, and contributing to the communit
 
 💻 Technical and Focused:
 
-Hello!
-
 • I work in the field of software development.
 
 • I build projects using Python, ASP.NET, and SQL.
@@ -19,8 +17,6 @@ Hello!
 
 
 🚀 Open to Learn:
-
-👋 Hi there!
 
 I'm on a journey to learn software development. Currently, I'm working on Python and web development.
 
