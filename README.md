@@ -11,7 +11,7 @@ I enjoy learning new things, building projects, and contributing to the communit
 
 • I work in the field of software development.
 
-• I build projects using Python, ASP.NET, and SQL.
+• I build projects using Python, C#, ASP.NET, and SQL.
 
 • I'm interested in contributing to open-source projects and gaining hands-on experience.
 
