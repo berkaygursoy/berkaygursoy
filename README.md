@@ -1,24 +1,29 @@
-👋 Hi, I'm Berkay
+👋 Hi, I'm Berkay!
 
-I am interested in software development, open source and new technologies.
+I'm interested in full-stack development, open source, and new technologies.
 
-Python, ASP.NET and I'm working on C#.
+I work with Python, ASP.NET, and C#.
 
-I like to learn new things, create projects and contribute to the community.
+I enjoy learning new things, building projects, and contributing to the community.
+
 
 💻 Technical and Focused:
 
+Hello!
+
 • I work in the field of software development.
 
-• Python, ASP.NET , I am developing projects with SQL.
+• I build projects using Python, ASP.NET, and SQL.
 
-• I want to contribute to open source projects and gain experience.
+• I'm interested in contributing to open-source projects and gaining hands-on experience.
 
 
-🚀 Open to Learning:
+🚀 Open to Learn:
 
-I am on a software learning journey. I am currently working on Python and web development.
+👋 Hi there!
 
-I am trying to document my development by sharing my projects on GitHub.
+I'm on a journey to learn software development. Currently, I'm working on Python and web development.
 
-I'm here to learn something new every day and to progress in the software world!
+I'm using GitHub to share my projects and document my progress.
+
+I'm here to learn something new every day and grow in the world of software!
