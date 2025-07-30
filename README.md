@@ -24,4 +24,13 @@ I'm using GitHub to share my projects and document my progress.
 
 I'm here to learn something new every day and grow in the world of software!
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+THE TECHNOLOGIES I USE
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript logo"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" alt="React logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" alt="SQL Server logo"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" alt="CSS logo"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" alt="HTML logo">
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="40" alt="Bootstrap logo"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" alt="Tailwind CSS logo">
+
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" alt="VS Code logo">
+
+
+
