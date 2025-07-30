@@ -18,7 +18,7 @@ I enjoy learning new things, building projects, and contributing to the communit
 
 🚀 Open to Learn:
 
-I'm on a journey to learn software development. Currently, I'm working on Python and web development.
+I'm on a journey to learn software development. Currently, I'm working on JavaScript, React and web development.
 
 I'm using GitHub to share my projects and document my progress.
 
