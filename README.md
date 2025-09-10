@@ -31,3 +31,5 @@ THE TECHNOLOGIES I USE
 
 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" alt="VS Code logo">
+
+![snake gif](https://github.com/berkaygursoy/berkaygursoy/blob/output/github-contribution-grid-snake.gif)
