@@ -1,36 +1,67 @@
-👋 Hi, I'm Berkay!
+# Hi, I'm Berkay 👋
 
-I'm interested in full-stack development, open source, and new technologies.
+I'm a software developer working toward full-stack development. I enjoy building projects with web technologies, learning in public, and contributing to open source.
 
-I work with Python,Javscript, React, Node.js ASP.NET, and C#.
+---
 
-I enjoy learning new things, building projects, and contributing to the community.
+## About Me
 
+- I've been developing my skills in software development, focusing on both front-end and back-end technologies.
+- I've built and learned through projects using JavaScript, React, Python, and SQL.
+- I use GitHub to share my projects and document my progress along the way.
+- I'm open to open source contributions and always looking for hands-on experience.
 
-💻 Technical and Focused:
+---
 
-• I work in the field of software development.
+## Tech Stack
 
-• I build projects using Javascript, React, Python, C#, ASP.NET, and SQL.
+**Languages**
 
-• I'm interested in contributing to open-source projects and gaining hands-on experience.
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" alt="HTML"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" alt="CSS">
 
+**Frontend**
 
-🚀 Open to Learn:
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" alt="React"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" alt="Tailwind CSS">
 
-I'm on a journey to learn software development. Currently, I'm working on JavaScript, React and web development.
+**Backend**
 
-I'm using GitHub to share my projects and document my progress.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js">
 
-I'm here to learn something new every day and grow in the world of software!
+**Database**
 
-THE TECHNOLOGIES I USE
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" alt="SQL">
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" alt="JavaScript logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" alt="React logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" alt="SQL Server logo"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" alt="CSS logo"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" alt="HTML logo">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="40" alt="Bootstrap logo"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" alt="Tailwind CSS logo">
+**Tools**
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" alt="VS Code">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" alt="VS Code logo">
+---
+
+## Currently Learning
+
+- JavaScript & React fundamentals
+- Modern web development
+- Backend development basics
+- SQL and database concepts
+
+---
+
+## GitHub Goals
+
+- Build useful, practical projects
+- Improve my problem-solving skills
+- Contribute to open source
+- Document my learning journey
+
+---
+
+## GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=berkaygursoy&hide_border=true&theme=transparent)
+
+---
+
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkaygursoy/berkaygursoy/output/github-contribution-grid-snake-dark.svg">
